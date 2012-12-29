@@ -1,7 +1,10 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Calculate",
+		"HTML Snippets",
+		"JSHint",
 		"Package Control"
 	]
 }
