@@ -4,7 +4,7 @@
 	[
 		"Calculate",
 		"HTML Snippets",
-		"JSHint",
-		"Package Control"
+		"Package Control",
+		"SublimeLinter"
 	]
 }
