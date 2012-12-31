@@ -1,3 +1,10 @@
 {
-    "sublimelinter": false
+	"sublimelinter": false,
+	"csslint_options": {
+		"adjoining-classes": false,
+		"shorthand": false,
+		"ids": false,
+		"qualified-headings": false,
+		"unique-headings": false
+	}
 }
