@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+background: ${1:transparent} url($2) ${3:top left} ${4:repeat} ${5:scroll};
+]]></content>
+	<tabTrigger>background</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
