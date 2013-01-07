@@ -52,5 +52,9 @@
 		"args": {
 			"contents": "‘${0:${TM_SELECTED_TEXT}}’"
 		}
+	},
+	{
+		"keys": ["ctrl+alt+q"],
+		"command": "join_lines"
 	}
 ]
