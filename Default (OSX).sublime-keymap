@@ -23,5 +23,34 @@
 		"args": {
 			"setting": "word_wrap"
 		}
+	},
+	{
+		"keys": ["ctrl+enter"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "<br />"
+		},
+		"context": [
+			{
+				"operand": "text.html",
+				"operator": "equal",
+				"match_all": true,
+				"key": "selector"
+			}
+		]
+	},
+	{
+		"keys": ["super+shift+2"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "“${0:${TM_SELECTED_TEXT}}”"
+		}
+	},
+	{
+		"keys": ["super+shift+'"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "‘${0:${TM_SELECTED_TEXT}}’"
+		}
 	}
 ]
