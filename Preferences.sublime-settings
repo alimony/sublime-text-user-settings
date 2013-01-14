@@ -5,6 +5,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 13.0,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -15,6 +16,5 @@
 	],
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false,
-	"wrap_width": 80,
-	"highlight_line": true
+	"wrap_width": 80
 }
