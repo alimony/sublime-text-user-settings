@@ -13,7 +13,7 @@
 	[
 		80
 	],
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"word_wrap": false,
 	"wrap_width": 80
 }
