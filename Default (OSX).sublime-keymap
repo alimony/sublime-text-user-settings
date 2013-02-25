@@ -56,5 +56,13 @@
 	{
 		"keys": ["ctrl+alt+q"],
 		"command": "join_lines"
+	},
+	{
+		"keys": ["ctrl+shift+f"],
+		"command": "filter"
+	},
+	{
+		"keys": ["ctrl+shift+option+f"],
+		"command": "filter_using_regular_expression"
 	}
 ]
