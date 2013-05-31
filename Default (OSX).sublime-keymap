@@ -64,5 +64,32 @@
 	{
 		"keys": ["ctrl+shift+option+f"],
 		"command": "filter_using_regular_expression"
+	},
+	// Add cmd-b and cmd-i shortcuts for making bold and italic in HTML.
+	{
+		"keys": ["super+b"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "<strong>${0:$SELECTION}</strong>"
+		},
+		"context": [{
+			"key": "selector",
+			"operator": "equal",
+			"operand": "text.html",
+			"match_all": true
+		}]
+	},
+	{
+		"keys": ["super+i"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "<em>${0:$SELECTION}</em>"
+		},
+		"context": [{
+			"key": "selector",
+			"operator": "equal",
+			"operand": "text.html",
+			"match_all": true
+		}]
 	}
 ]
