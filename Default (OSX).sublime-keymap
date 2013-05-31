@@ -30,14 +30,12 @@
 		"args": {
 			"contents": "<br />"
 		},
-		"context": [
-			{
-				"operand": "text.html",
-				"operator": "equal",
-				"match_all": true,
-				"key": "selector"
-			}
-		]
+		"context": [{
+			"key": "selector",
+			"operator": "equal",
+			"operand": "text.html",
+			"match_all": true
+		}]
 	},
 	{
 		"keys": ["super+shift+2"],
