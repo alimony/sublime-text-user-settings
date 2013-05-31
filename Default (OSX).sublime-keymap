@@ -43,14 +43,14 @@
 		"keys": ["super+shift+2"],
 		"command": "insert_snippet",
 		"args": {
-			"contents": "“${0:${TM_SELECTED_TEXT}}”"
+			"contents": "“${0:$SELECTION}”"
 		}
 	},
 	{
 		"keys": ["super+shift+'"],
 		"command": "insert_snippet",
 		"args": {
-			"contents": "‘${0:${TM_SELECTED_TEXT}}’"
+			"contents": "‘${0:$SELECTION}’"
 		}
 	},
 	{
