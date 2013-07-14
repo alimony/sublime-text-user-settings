@@ -2,6 +2,7 @@
 	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/Blackboard Modified.tmTheme",
 	"create_window_at_startup": false,
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 13.0,
 	"highlight_line": true,
@@ -13,6 +14,5 @@
 	[
 		80
 	],
-	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
