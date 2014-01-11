@@ -1,38 +1,63 @@
 {
-	"sublimelinter": "save-only",
-	"csslint_options": {
-		"adjoining-classes": false,
-		"shorthand": false,
-		"ids": false,
-		"qualified-headings": false,
-		"unique-headings": false
-	},
-	"jshint_options": {
-		"bitwise": true,
-		"camelcase": true,
-		"curly": true,
-		"eqeqeq": true,
-		"forin": true,
-		"immed": true,
-		"newcap": true,
-		"noarg": true,
-		"noempty": true,
-		"quotmark": "single",
-		"undef": true,
-		"unused": true,
-		"trailing": true,
-		"browser": true,
-		"devel": true,
-		"jquery": true,
-		"node": true,
-		"predef": [
-			"_", // underscore.js.
-			"gapi", // Google JavaScript Client.
-			"SC", // SoundCloud.
-			"Waveform", // waveform.js
-			"google",
-			"moment",
-			"console"
-		]
-	}
+    "user": {
+        "debug": false,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "save only",
+        "linters": {
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "adjoining-classes,shorthand,ids,qualified-headings,unique-headings",
+                "warnings": ""
+            },
+            "flake8": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "E501",
+                "max-complexity": -1,
+                "max-line-length": null,
+                "select": ""
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [
+                    "--config",
+                    "/Users/markus/.jshintrc"
+                ],
+                "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "shell_timeout": 10,
+        "show_errors_on_save": false,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "php": "html"
+        },
+        "warning_color": "DDB700",
+        "wrap_find": true
+    }
 }

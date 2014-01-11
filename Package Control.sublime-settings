@@ -6,9 +6,7 @@
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Calculate",
-		"ColdFusion",
 		"Emmet",
-		"Hasher",
 		"HTML Snippets",
 		"Jinja2",
 		"jQuery",
@@ -18,13 +16,15 @@
 		"rsub",
 		"ScopeHunter",
 		"SideBarEnhancements",
-		"Slug",
 		"SmartMarkdown",
 		"Sort Lines (Numerically)",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"Text Pastry",
-		"WordCount",
-		"Wordpress"
+		"WordCount"
 	]
 }
