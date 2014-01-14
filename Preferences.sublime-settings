@@ -25,6 +25,7 @@
 		"*.jpg",
 		"*.pdf",
 		"*.png",
+		"*.sassc",
 		"*.scssc",
 		"*.swf",
 		"*.tga",
