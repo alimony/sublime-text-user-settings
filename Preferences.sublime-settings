@@ -6,9 +6,29 @@
 	"font_face": "Source Code Pro",
 	"font_size": 13.0,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"rulers":
 	[
 		80
 	],
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"binary_file_patterns": [
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.scssc",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip"
+	]
 }
