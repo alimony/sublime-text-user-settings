@@ -1,21 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/Blackboard Modified.tmTheme",
-	"create_window_at_startup": false,
-	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Source Code Pro",
-	"font_size": 13.0,
-	"highlight_line": true,
-	"ignored_packages":
+	"binary_file_patterns":
 	[
-		"Vintage"
-	],
-	"rulers":
-	[
-		80
-	],
-	"trim_trailing_white_space_on_save": true,
-	"binary_file_patterns": [
 		"*.dds",
 		"*.eot",
 		"*.gif",
@@ -31,5 +17,20 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip"
-	]
+	],
+	"color_scheme": "Packages/User/Blackboard Modified.tmTheme",
+	"create_window_at_startup": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"trim_trailing_white_space_on_save": true
 }
