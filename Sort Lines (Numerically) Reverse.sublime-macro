@@ -1,0 +1,12 @@
+[
+	{
+		"args": null,
+		"command": "sort_numerically"
+	},
+	{
+		"args": {
+			"operation": "reverse"
+		},
+		"command": "permute_lines"
+	}
+]
