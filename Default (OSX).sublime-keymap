@@ -89,5 +89,9 @@
 			"operand": "text.html",
 			"match_all": true
 		}]
+	},
+	{
+		"keys": ["super+shift+option+d"],
+		"command": "find_all_under"
 	}
 ]
