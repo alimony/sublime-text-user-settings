@@ -27,7 +27,6 @@
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
-		"SublimeLinter-phplint",
 		"SublimeLinter-phpmd",
 		"Text Pastry",
 		"WordCount"
