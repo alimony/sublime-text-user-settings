@@ -18,6 +18,7 @@
             "flake8": {
                 "@disable": false,
                 "args": [],
+                "builtins": "",
                 "excludes": [],
                 "ignore": "E501",
                 "max-complexity": -1,
@@ -36,6 +37,23 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "phpcs": {
+                "@disable": false,
+                "args": ["--tab-width=4"],
+                "excludes": [],
+                "standard": "Squiz"
+            },
+            "phpmd": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
             }
         },
         "mark_style": "outline",
@@ -55,7 +73,11 @@
         "show_errors_on_save": false,
         "show_marks_in_minimap": true,
         "syntax_map": {
-            "php": "html"
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "php": "html",
+            "python django": "python"
         },
         "warning_color": "DDB700",
         "wrap_find": true
