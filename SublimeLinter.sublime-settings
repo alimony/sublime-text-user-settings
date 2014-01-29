@@ -45,9 +45,11 @@
             },
             "phpcs": {
                 "@disable": false,
-                "args": ["--tab-width=4"],
+                "args": [
+                    "--tab-width=4"
+                ],
                 "excludes": [],
-                "standard": "Squiz"
+                "standard": "PEAR"
             },
             "phpmd": {
                 "@disable": false,
