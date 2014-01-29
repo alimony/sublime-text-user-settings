@@ -25,6 +25,10 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
 		"Text Pastry",
 		"WordCount"
 	]
