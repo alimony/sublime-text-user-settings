@@ -16,6 +16,7 @@
 		"Jinja2",
 		"jQuery",
 		"Markdown Preview",
+		"nginx",
 		"Package Control",
 		"PostgreSQL Syntax Highlighting",
 		"Pretty JSON",
@@ -33,6 +34,7 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
+		"Tag",
 		"Text Pastry",
 		"WordCount"
 	]
