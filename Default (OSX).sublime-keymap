@@ -1,21 +1,13 @@
 [
 	{
-		"keys": ["ctrl+shift+="],
-		"command": "calculate",
-		"args": {
-			"replace": false
-		}
-	},
-	{
-		"keys": ["ctrl+shift+alt+1"],
-		"command": "calculate_count"
-	},
-	{
 		"keys": ["ctrl+shift+c"],
-		"command": "calculate",
+		"command": "run_emmet_action",
 		"args": {
-			"replace": true
-		}
+			"action": "evaluate_math_expression"
+		},
+		"context": [{
+			"key": "emmet_action_enabled.evaluate_math_expression"
+		}]
 	},
 	{
 		"keys": ["super+alt+w"],
