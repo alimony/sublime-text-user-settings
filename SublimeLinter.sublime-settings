@@ -12,7 +12,7 @@
                 "args": [],
                 "errors": "",
                 "excludes": [],
-                "ignore": "adjoining-classes,shorthand,ids,qualified-headings,unique-headings",
+                "ignore": "adjoining-classes,shorthand,ids,qualified-headings,unique-headings,font-sizes",
                 "warnings": ""
             },
             "flake8": {
