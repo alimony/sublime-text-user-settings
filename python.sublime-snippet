@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+#!/usr/bin/env python
+# encoding: utf-8
+]]></content>
+	<tabTrigger>shebang</tabTrigger>
+	<scope>source.python</scope>
+</snippet>
