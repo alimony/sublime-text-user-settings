@@ -38,6 +38,7 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
+		"SublimeLinter-pyyaml",
 		"Tag",
 		"Text Pastry",
 		"WordCount"
