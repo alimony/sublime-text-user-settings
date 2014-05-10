@@ -27,7 +27,8 @@
 		".git",
 		".hg",
 		"CVS",
-		"_site"
+		"_site",
+		".vagrant"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 13.0,
