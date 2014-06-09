@@ -36,7 +36,8 @@
             "json": {
                 "@disable": false,
                 "args": [],
-                "excludes": []
+                "excludes": [],
+                "strict": true
             },
             "php": {
                 "@disable": false,
@@ -56,11 +57,11 @@
                 "args": [],
                 "excludes": [],
                 "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
-	    },
-	    "pyyaml": {
-		"@disable": false,
-		"args": [],
-		"excludes": []
+            },
+            "pyyaml": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
@@ -87,6 +88,7 @@
             "python django": "python"
         },
         "warning_color": "DDB700",
-        "wrap_find": true
+        "wrap_find": true,
+        "shell_timeout": 20
     }
 }
