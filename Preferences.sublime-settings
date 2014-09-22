@@ -2,9 +2,14 @@
 	"auto_complete_commit_on_tab": true,
 	"binary_file_patterns":
 	[
+		"*.ai",
 		"*.dds",
+		"*.dmg",
+		"*.docx",
 		"*.eot",
 		"*.epub",
+		"*.figure",
+		"*.flv",
 		"*.gif",
 		"*.ico",
 		"*.jar",
@@ -16,14 +21,16 @@
 		"*.otf",
 		"*.pdf",
 		"*.png",
+		"*.ppt",
 		"*.sassc",
 		"*.scssc",
+		"*.sit",
 		"*.svg",
 		"*.swf",
 		"*.tga",
 		"*.ttf",
-		"*.zip",
-		"*.woff"
+		"*.woff",
+		"*.zip"
 	],
 	"color_scheme": "Packages/User/Blackboard Modified.tmTheme",
 	"create_window_at_startup": false,
