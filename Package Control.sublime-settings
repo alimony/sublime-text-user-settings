@@ -4,6 +4,7 @@
 	[
 		"All Autocomplete",
 		"AMPScript",
+		"Anaconda",
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Calculate",
@@ -34,7 +35,6 @@
 		"Slugify",
 		"SmartMarkdown",
 		"Sort Lines (Numerically)",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",

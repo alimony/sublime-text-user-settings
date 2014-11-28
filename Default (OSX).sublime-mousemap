@@ -1,0 +1,14 @@
+[
+	{
+		"button": "button1",
+		"modifiers": ["ctrl"],
+		"command": "anaconda_goto",
+		"press_command": "drag_select"
+	},
+	{
+		"button": "button1",
+		"modifiers": ["ctrl", "shift"],
+		"command": "anaconda_doc",
+		"press_command": "drag_select"
+	},
+]
