@@ -66,6 +66,7 @@
         },
         "mark_style": "outline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [],
@@ -77,7 +78,7 @@
             "windows": []
         },
         "rc_search_limit": 3,
-        "shell_timeout": 10,
+        "shell_timeout": 20,
         "show_errors_on_save": false,
         "show_marks_in_minimap": true,
         "syntax_map": {
@@ -88,7 +89,6 @@
             "python django": "python"
         },
         "warning_color": "DDB700",
-        "wrap_find": true,
-        "shell_timeout": 20
+        "wrap_find": true
     }
 }
