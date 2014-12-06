@@ -35,6 +35,7 @@
 		"Slugify",
 		"SmartMarkdown",
 		"Sort Lines (Numerically)",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
