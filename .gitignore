@@ -3,3 +3,5 @@ Package Control.last-run
 Package Control.system-ca-bundle
 *.pyc
 *.cache
+*.merged-ca-bundle
+*.user-ca-bundle
