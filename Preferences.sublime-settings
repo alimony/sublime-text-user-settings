@@ -42,6 +42,7 @@
 	[
 		".git",
 		".hg",
+		".sass-cache",
 		".svn",
 		".vagrant",
 		"_site",
