@@ -3,11 +3,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -26,6 +21,7 @@
 		"Indent XML",
 		"INI",
 		"InsertDate",
+		"isort",
 		"Jekyll",
 		"Jinja2",
 		"jQuery",
@@ -45,6 +41,7 @@
 		"Sort Lines (Numerically)",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
