@@ -92,5 +92,13 @@
 	{
 		"keys": ["super+ä"],
 		"command": "next_view"
+	},
+	{
+		"keys": ["ctrl+alt+f"],
+		"command": "show_panel",
+		"args": {
+			"panel": "replace",
+			"reverse": false
+		}
 	}
 ]
