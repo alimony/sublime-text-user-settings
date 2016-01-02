@@ -15,6 +15,7 @@
 		"*.gif",
 		"*.ico",
 		"*.jar",
+		"*.jekyll-metadata",
 		"*.jpeg",
 		"*.jpg",
 		"*.m4a",
