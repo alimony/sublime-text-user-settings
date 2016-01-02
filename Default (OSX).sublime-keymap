@@ -20,7 +20,7 @@
 		"keys": ["ctrl+enter"],
 		"command": "insert_snippet",
 		"args": {
-			"contents": "<br />"
+			"contents": "<br>"
 		},
 		"context": [{
 			"key": "selector",
