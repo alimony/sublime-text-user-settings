@@ -7,6 +7,20 @@
         "gutter_theme_excludes": [],
         "lint_mode": "save only",
         "linters": {
+            "cppcheck": {
+                "@disable": false,
+                "args": [],
+                "enable": "style",
+                "excludes": [],
+                "std": []
+            },
+            "cpplint": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "filter": "",
+                "linelength": ""
+            },
             "csslint": {
                 "@disable": false,
                 "args": [],
@@ -15,15 +29,22 @@
                 "ignore": "adjoining-classes,shorthand,ids,qualified-headings,unique-headings,font-sizes,overqualified-elements,box-model,duplicate-background-images,box-sizing",
                 "warnings": ""
             },
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "flake8": {
                 "@disable": false,
                 "args": [],
                 "builtins": "",
                 "excludes": [],
                 "ignore": "E501",
+                "jobs": "1",
                 "max-complexity": -1,
                 "max-line-length": null,
-                "select": ""
+                "select": "",
+                "show-code": false
             },
             "jshint": {
                 "@disable": false,

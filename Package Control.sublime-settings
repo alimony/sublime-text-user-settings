@@ -6,7 +6,6 @@
 	],
 	"installed_packages":
 	[
-		"All Autocomplete",
 		"AMPScript",
 		"Anaconda",
 		"ApacheConf.tmLanguage",
@@ -44,6 +43,8 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-json",
