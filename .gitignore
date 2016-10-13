@@ -5,3 +5,5 @@ Package Control.system-ca-bundle
 *.cache
 *.merged-ca-bundle
 *.user-ca-bundle
+
+*.crt
