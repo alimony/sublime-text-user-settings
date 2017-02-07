@@ -6,6 +6,7 @@
 		"xslt",
 		"svg",
 		"wsdl",
-		"ncx"
+		"ncx",
+		"opf"
 	]
 }
