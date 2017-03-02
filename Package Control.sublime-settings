@@ -50,6 +50,7 @@
 		"SublimeLinter-php",
 		"SublimeLinter-pyyaml",
 		"Tag",
+		"Terraform",
 		"Text Pastry",
 		"WordCount"
 	]
