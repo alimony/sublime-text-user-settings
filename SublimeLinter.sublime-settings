@@ -39,6 +39,7 @@
                 "args": [],
                 "builtins": "",
                 "excludes": [],
+                "executable": "",
                 "ignore": "E501",
                 "jobs": "1",
                 "max-complexity": -1,

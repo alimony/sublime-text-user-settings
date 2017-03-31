@@ -11,5 +11,5 @@ class RequirementsEventListener(sublime_plugin.EventListener):
         if not fname:
             return
         basename = os.path.basename(fname)
-        if basename == 'requirements.txt':
+        if basename in ('requirements.txt', 'requirements.in'):
             view.set_syntax_file('Packages/User/requirementstxt.tmLanguage')
