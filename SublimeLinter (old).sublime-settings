@@ -1,0 +1,71 @@
+{
+    "user": {
+        "linters": {
+            "cppcheck": {
+                "@disable": false,
+                "args": [],
+                "enable": "style",
+                "excludes": [],
+                "std": []
+            },
+            "cpplint": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "filter": "",
+                "linelength": ""
+            },
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "adjoining-classes,shorthand,ids,qualified-headings,unique-headings,font-sizes,overqualified-elements,box-model,duplicate-background-images,box-sizing",
+                "warnings": ""
+            },
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [
+                    "--config",
+                    "/Users/markus/.jshintrc"
+                ],
+                "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "strict": true
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "phpcs": {
+                "@disable": false,
+                "args": [
+                    "--tab-width=4"
+                ],
+                "excludes": [],
+                "standard": "PEAR"
+            },
+            "phpmd": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
+            },
+            "pyyaml": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        }
+    }
+}
