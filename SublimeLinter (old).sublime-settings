@@ -23,11 +23,6 @@
                 "ignore": "adjoining-classes,shorthand,ids,qualified-headings,unique-headings,font-sizes,overqualified-elements,box-model,duplicate-background-images,box-sizing",
                 "warnings": ""
             },
-            "eslint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "jshint": {
                 "@disable": false,
                 "args": [
