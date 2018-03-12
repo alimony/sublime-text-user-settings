@@ -55,11 +55,6 @@
                 "args": [],
                 "excludes": [],
                 "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
-            },
-            "pyyaml": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
             }
         }
     }
