@@ -3,6 +3,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Tag"
 	],
 	"installed_packages":
 	[
@@ -52,7 +53,6 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"Tag",
 		"Terraform",
 		"Text Pastry",
 		"WordCount"
