@@ -56,7 +56,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Tag",
 		"Vintage"
 	],
 	"rulers":
