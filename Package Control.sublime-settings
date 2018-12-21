@@ -42,6 +42,7 @@
 		"Slugify",
 		"SmartMarkdown",
 		"Sort Lines (Numerically)",
+		"StripHTML",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-yamllint",
