@@ -42,6 +42,7 @@
 		"Slugify",
 		"SmartMarkdown",
 		"Sort Lines (Numerically)",
+		"SqlBeautifier",
 		"StripHTML",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -53,6 +54,7 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"SublimeREPL",
 		"Terraform",
 		"Text Pastry",
 		"WordCount"
