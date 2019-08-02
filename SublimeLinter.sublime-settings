@@ -3,7 +3,7 @@
     "lint_mode": "load_save",
     "linters": {
         "flake8": {
-            "args": ["--max-line-length", "88"]
+            "args": ["--max-line-length", "88", "--ignore", "W503"]
         },
         "csslint": {
             "ignore": "adjoining-classes,shorthand,ids,qualified-headings,unique-headings,font-sizes,overqualified-elements,box-model,duplicate-background-images,box-sizing,order-alphabetical",
