@@ -50,6 +50,7 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-json",
+		"SublimeLinter-pydocstyle",
 		"Text Pastry",
 		"WordCount"
 	]
