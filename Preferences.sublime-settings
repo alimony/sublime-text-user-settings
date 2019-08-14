@@ -72,7 +72,8 @@
 		"*.psd",
 		"*.db",
 		"*.sublime-workspace",
-		"*.map"
+		"*.map",
+		"*.min.js"
 	],
 	"font_face": "Source Code Variable Regular",
 	"font_size": 13.0,
