@@ -46,11 +46,11 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-yamllint",
-		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-json",
 		"SublimeLinter-pydocstyle",
+		"SublimeLinter-stylelint",
 		"Text Pastry",
 		"WordCount"
 	]
