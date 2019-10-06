@@ -42,6 +42,7 @@
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
+		".coverage",
 		".git",
 		".hg",
 		".sass-cache",
