@@ -96,5 +96,18 @@
 			"panel": "replace",
 			"reverse": false
 		}
-	}
+	},
+	{
+		"keys": ["super+."],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "\\cdot"
+		},
+		"context": [{
+			"key": "selector",
+			"operator": "equal",
+			"operand": "text.tex.latex",
+			"match_all": true
+		}]
+	},
 ]
