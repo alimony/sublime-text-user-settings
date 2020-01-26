@@ -40,19 +40,8 @@
 	"color_scheme": "Packages/User/Blackboard Modified.tmTheme",
 	"create_window_at_startup": false,
 	"ensure_newline_at_eof_on_save": true,
-	"folder_exclude_patterns":
+	"file_exclude_patterns":
 	[
-		".git",
-		".hg",
-		"htmlcov",
-		".sass-cache",
-		".svn",
-		".vagrant",
-		"_site",
-		"CACHE",
-		"CVS"
-	],
-	"file_exclude_patterns": [
 		"*.a",
 		"*.class",
 		"*.db",
@@ -76,6 +65,18 @@
 		"*.suo",
 		".coverage",
 		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".hg",
+		"htmlcov",
+		".sass-cache",
+		".svn",
+		".vagrant",
+		"_site",
+		"CACHE",
+		"CVS"
 	],
 	"font_face": "Source Code Variable Regular",
 	"font_size": 13.0,
