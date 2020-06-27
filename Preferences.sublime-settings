@@ -70,13 +70,14 @@
 	[
 		".git",
 		".hg",
-		"htmlcov",
 		".sass-cache",
 		".svn",
 		".vagrant",
 		"_site",
 		"CACHE",
-		"CVS"
+		"CVS",
+		"htmlcov",
+		"node_modules"
 	],
 	"font_face": "Source Code Variable Regular",
 	"font_size": 13.0,
