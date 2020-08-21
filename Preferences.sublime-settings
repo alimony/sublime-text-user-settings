@@ -64,7 +64,8 @@
 		"*.sublime-workspace",
 		"*.suo",
 		".coverage",
-		".DS_Store"
+		".DS_Store",
+		"dbdump/*",
 	],
 	"folder_exclude_patterns":
 	[
