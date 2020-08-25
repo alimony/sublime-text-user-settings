@@ -65,7 +65,7 @@
 		"*.suo",
 		".coverage",
 		".DS_Store",
-		"dbdump/*",
+		"dbdump/*"
 	],
 	"folder_exclude_patterns":
 	[

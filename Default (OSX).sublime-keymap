@@ -1,13 +1,7 @@
 [
 	{
 		"keys": ["ctrl+shift+c"],
-		"command": "run_emmet_action",
-		"args": {
-			"action": "evaluate_math_expression"
-		},
-		"context": [{
-			"key": "emmet_action_enabled.evaluate_math_expression"
-		}]
+		"command": "emmet_evaluate_math"
 	},
 	{
 		"keys": ["super+alt+w"],
