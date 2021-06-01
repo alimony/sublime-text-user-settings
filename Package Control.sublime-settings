@@ -14,6 +14,7 @@
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
+		"ESLint Fix",
 		"Git",
 		"Hasher",
 		"HTML Snippets",
@@ -53,6 +54,6 @@
 		"SublimeLinter-stylelint",
 		"Text Pastry",
 		"Vue Syntax Highlight",
-		"WordCount"
-	]
+		"WordCount",
+	],
 }
