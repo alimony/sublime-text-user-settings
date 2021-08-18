@@ -8,7 +8,7 @@
     },
     "paths": {
         "osx": [
-            "~/.nvm/versions/node/v15.0.0/bin",
+            "~/.nvm/versions/node/v16.5.0/bin",
             "~/.nvm/versions/node/v14.4.0/bin"
         ]
     }
