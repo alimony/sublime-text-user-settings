@@ -6,6 +6,7 @@
 	],
 	"installed_packages":
 	[
+		"ApacheConf",
 		"AutoFileName",
 		"Babel",
 		"Calculate",
@@ -29,6 +30,7 @@
 		"JsPrettier",
 		"LaTeXTools",
 		"LESS",
+		"Liquid",
 		"MarkdownPreview",
 		"nginx",
 		"OmniMarkupPreviewer",
@@ -53,6 +55,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-stylelint",
 		"Text Pastry",
+		"TypeScript",
 		"Vue Syntax Highlight",
 		"WordCount",
 	],
