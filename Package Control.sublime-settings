@@ -31,7 +31,6 @@
 		"jQuery",
 		"JsPrettier",
 		"LaTeXTools",
-		"LESS",
 		"Liquid",
 		"MarkdownPreview",
 		"nginx",
@@ -59,6 +58,6 @@
 		"Text Pastry",
 		"TypeScript",
 		"Vue Syntax Highlight",
-		"WordCount",
+		"WordingStatus",
 	],
 }
