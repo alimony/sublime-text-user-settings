@@ -89,7 +89,8 @@
 	],
 	"rulers":
 	[
-		88
+		88,
+		97
 	],
 	"show_full_path": true,
 	"translate_tabs_to_spaces": true,
