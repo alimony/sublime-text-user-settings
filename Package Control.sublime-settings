@@ -6,7 +6,6 @@
 	],
 	"installed_packages":
 	[
-		"AutoFileName",
 		"Babel",
 		"Calculate",
 		"ChannelRepositoryTools",
@@ -19,6 +18,7 @@
 		"GraphQL",
 		"Hasher",
 		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"INI",
 		"InsertDate",
@@ -33,6 +33,7 @@
 		"LSP-ruff",
 		"LSP-typescript",
 		"MarkdownPreview",
+		"MJML-syntax",
 		"nginx",
 		"OmniMarkupPreviewer",
 		"Package Control",
@@ -44,6 +45,8 @@
 		"Sort Lines (Numerically)",
 		"SqlBeautifier",
 		"StripHTML",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"Text Pastry",
 		"TOML",
 		"Vue Syntax Highlight",
