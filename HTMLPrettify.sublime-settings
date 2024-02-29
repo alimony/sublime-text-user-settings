@@ -1,0 +1,35 @@
+{
+    "node_path":
+    {
+        "windows": "C:/Program Files/nodejs/node.exe",
+        "linux": "/usr/bin/nodejs",
+        "osx": "/opt/homebrew/bin/node"
+    },
+    "global_file_rules":
+    {
+        "html":
+        {
+            "allowed_file_extensions": ["htm", "html"],
+            "allowed_file_syntaxes": ["html"],
+            "disallowed_file_patterns": []
+        },
+        "css":
+        {
+            "allowed_file_extensions": [],
+            "allowed_file_syntaxes": [],
+            "disallowed_file_patterns": []
+        },
+        "js":
+        {
+            "allowed_file_extensions": [],
+            "allowed_file_syntaxes": [],
+            "disallowed_file_patterns": []
+        },
+        "json":
+        {
+            "allowed_file_extensions": [],
+            "allowed_file_syntaxes": [],
+            "disallowed_file_patterns": []
+        }
+    },
+}
