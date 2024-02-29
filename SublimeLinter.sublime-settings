@@ -1,0 +1,7 @@
+{
+    "linters": {
+        "flake8": {
+            "args": ["--max-line-length", "97"]
+        }
+    }
+}
