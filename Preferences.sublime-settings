@@ -74,6 +74,7 @@
 		".sass-cache",
 		".svn",
 		".vagrant",
+		".venv",
 		".vscode",
 		"_site",
 		"CACHE",

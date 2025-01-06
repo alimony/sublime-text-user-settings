@@ -49,6 +49,6 @@
 		"SublimeLinter-flake8",
 		"Text Pastry",
 		"TOML",
-		"Vue Syntax Highlight",
+		"Vue",
 	],
 }

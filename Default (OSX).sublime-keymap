@@ -103,5 +103,19 @@
 			"operand": "text.tex.latex",
 			"match_all": true
 		}]
-	}
+	},
+	{
+		"keys": ["super+shift+i"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "\\mathrm{${0:$SELECTION}}"
+		}
+	},
+	{
+		"keys": ["super+shift+o"],
+		"command": "insert_snippet",
+		"args": {
+			"contents": "\\(${0:$SELECTION}\\)"
+		}
+	},
 ]
